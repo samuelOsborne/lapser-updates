@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Lapser Studio</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 28 Apr 2026 07:56:56 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/samuelOsborne/lapser-updates/releases/download/v1.0/Lapser.Studio.1.0.0.dmg" length="2029077245" type="application/octet-stream" sparkle:edSignature="dUFyxIgRMAMK+Y90mi90n46ttkhxWIUywDzDxDUNsj3NYGs6A6r9Cp/ZwqOXVsS4lJ8qVaw6avVCbpufxwDkAw=="/>
+        </item>
+    </channel>
+</rss>
